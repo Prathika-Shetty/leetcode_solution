@@ -24,6 +24,7 @@
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Simulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Bit Manipulation
 |  |
 | ------- |
