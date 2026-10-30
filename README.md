@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [1678-goal-parser-interpretation](https://github.com/Prathika-Shetty/leetcode_solution/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
